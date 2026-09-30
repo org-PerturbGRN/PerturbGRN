@@ -1,0 +1,9 @@
+name: perturbgrn_mode3
+channels:
+  - conda-forge
+  - nodefaults
+dependencies:
+  - python=3.9.16
+  - pip=23.1.2
+  - setuptools=67.7.2
+  - wheel=0.40.0
